@@ -1,0 +1,19 @@
+body{
+    background-color: #0d8187;
+    color : white;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+.wrap{
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10rem;
+    border : solid black 1px;
+    width: 400px;
+    justify-content: center;
+}
