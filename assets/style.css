@@ -1,6 +1,8 @@
 body{
     background-color: #0d8187;
     color : white;
+    background-color: black;
+    color: white;
 }
 
 ul{
@@ -17,3 +19,4 @@ ul{
     width: 400px;
     justify-content: center;
 }
+input[type="text"]#website { display: none; };
